@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Sebastián Fernando García Delgado.
+- 👀 I'm interested in web development, frontend and backend.
+- 🌱 I'm currently learning the uses of existing fameworks with the deferent programming languages.
+- 📫 You can contact me through the following emails: sefegade@gmail.com and sfernandogarcia@uts.edu.co.
