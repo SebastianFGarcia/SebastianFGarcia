@@ -1,15 +1,15 @@
-Hi 👋 My name is Sebastian Fernando Garcia Delgado
+Hola! 👋 Mi nombre es Sebastian Fernando Garcia Delgado
 ==================================================
 
-Web Developer
+Desarrrollador web
 -------------
 
-I'm currently learning the uses of existing fameworks with the deferent programming languages
+Actualmente estoy aprendiendo los usos de los fameworks existentes con los diferentes lenguajes de programación
 
-* 🌍  I'm based in Bucaramanga
-* 🖥️  See my portfolio at [My Portfolio](http://sebastianfgarcia.github.io/)
-* ✉️  You can contact me at [sfernandogarcia@uts.edu.co](mailto:sfernandogarcia@uts.edu.co) [sefegade@gmail.com](mailto:sefegade@gmail.com)
-* 🧠  I'm learning Django and Vue
+* 🌍  Estoy en Bucaramanga, Colombia
+* ✉️  Puede ponerse en contacto conmigo en [sfernandogarcia@uts.edu.co](mailto:sfernandogarcia@uts.edu.co) [sefegade@gmail.com](mailto:sefegade@gmail.com)
+* 🧠  Tengo conocimientos en Laravel y vue
+* 🧠  Estoy aprendiendo Django 
 
 ### Skills
 
