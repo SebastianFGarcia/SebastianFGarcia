@@ -9,7 +9,7 @@ Actualmente estoy aprendiendo los usos de los fameworks existentes con los difer
 * 🌍  Estoy en Bucaramanga, Colombia
 * ✉️  Puede ponerse en contacto conmigo en [sfernandogarcia@uts.edu.co](mailto:sfernandogarcia@uts.edu.co) [sefegade@gmail.com](mailto:sefegade@gmail.com)
 * 🧠  Tengo conocimientos en Laravel y vue
-* 🧠  Estoy aprendiendo Django 
+
 
 ### Skills
 
